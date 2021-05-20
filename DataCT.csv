@@ -1,54 +1,37 @@
-﻿Before,After
-9,9
-7,10
-5,7
-7,8
-6,7
-9,8
-8,7
-8,10
-5,9
-1,10
-7,10
-10,10
-6,6
-1,7
-2,10
-4,9
-1,7
-4,10
-5,8
-3,6
-3,7
-5,6
-3,5
-3,4
-1,9
-1,5
-1,1
-4,8
-2,8
-1,7
-4,10
-7,8
-7,6
-3,7
-8,8
-6,7
-5,8
-9,9
-4,9
-2,10
-3,10
-3,7
-6,10
-4,8
-6,10
-7,8
-5,5
-9,9
-5,10
-2,10
-8,8
-1,9
-2,7
+﻿No.,Email,Tingkat_Sekolah,Mapel,BK_Before,Kelengkapan_Belajar,Nilai_Bebras,Nilai_HOTS,Nilai_RP,Nilai_DS,BK_After
+1,hvinalusiana@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Matematika,9,Ya,7,10,86.66667,85,9
+2,ariffebriadi@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Mata Pelajaran pada SMK bidang Teknik Komputer dan Jaringan,7,Sebagian,5,8,94.66667,70,10
+3,nengfila31@gmail.com,Sekolah Dasar Kelas 1-3 atau Madrasah Ibtidaiyah (MI) kelas 1-3,Matematika,5,Ya,2,10,100,74,7
+4,ujangrohaya@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",7,Ya,5,10,60,50,8
+5,syaiful39@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Informatika dan TIK,9,Ya,6,10,87,57.5,8
+6,gusnafik@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Informatika dan TIK,8,Ya,10,10,100,72.5,10
+7,richsan91@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Mata Pelajaran pada SMK bidang Multimedia,5,Ya,9,10,86.66667,80,9
+8,emialice08@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,Matematika,1,Ya,10,10,88,63,10
+9,nengsusan275@gmail.com,Sekolah Dasar Kelas 1-3 atau Madrasah Ibtidaiyah (MI) kelas 1-3,Bahasa Indonesia,7,Sebagian,4,0,73.33333,74,10
+10,tehnenijunawati@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Matematika,1,Ya,6,6.4,90,80,7
+11,irnarosnianew@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",2,Ya,7,10,86.66667,70,10
+12,mipadasuka@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,Matematika,1,Ya,7,10,96.66667,74,7
+13,nurulaini251271@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Matematika,4,Sebagian,5,3.2,80,94,10
+14,suryanispd.07@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",3,Sebagian,4,8.4,93.33333,50,6
+15,kokomariah540@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",3,Sebagian,8,10,97.33333,25,7
+16,lilis.rukmini@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,Matematika,5,Sebagian,6,10,98,100,6
+17,ellasuhaeni@gmail.com,Sekolah Dasar Kelas 1-3 atau Madrasah Ibtidaiyah (MI) kelas 1-3,Bahasa Indonesia,3,Sebagian,4,0,72,42,5
+18,iisida163@gmail.com,Sekolah Dasar Kelas 1-3 atau Madrasah Ibtidaiyah (MI) kelas 1-3,Bahasa Indonesia,3,Ya,7,10,80,35,4
+19,acrie.w@gmail.com,Sekolah Menengah Pertama (SMP) atau Madrasah Tsanawiyah (MTs),"Seni dan Budaya (Seni Rupa, Seni Musik, Seni Tari, dan seni lainnya)",1,Ya,6,8,90,74,9
+20,yuyunyhnh@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",2,Ya,7,10,86.66667,72.5,8
+21,aryayuniarta99@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Informatika dan TIK,1,Sebagian,4,0,97.33333,47,7
+22,unikmatematika@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Matematika,4,Ya,5,10,86.66667,45,10
+23,dikipirasaputra@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Informatika dan TIK,7,Ya,8,8.4,85.33333,84,8
+24,dewisetiawati2275@gmail.com,Sekolah Menengah Pertama (SMP) atau Madrasah Tsanawiyah (MTs),"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",3,Ya,5,4.8,96.66667,60,7
+25,nasrudin.fatoni@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Agama atau mata pelajaran terkait agama pada sekolah dasar dan menengah,5,Sebagian,10,1.92,80,50,8
+26,master.zulqarnaen@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Matematika,9,Ya,10,10,93.33,80,9
+27,retnouly10@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,Matematika,4,Ya,3,8,93.33333,85,9
+28,anitram0208@gmail.com,Sekolah Menengah Pertama (SMP) atau Madrasah Tsanawiyah (MTs),"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",3,Ya,8,3.2,93.33333,80,7
+29,rahayupriyatin@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,Matematika,4,Ya,3,6.4,90,80,8
+30,naibahoagusoloan@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Informatika dan TIK,6,Ya,4,4.8,100,69,10
+31,tiaraprabawatikusuma@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),"Ilmu Pengetahuan Sosial dan Pendidikan Kewarganegaraan (termasuk Sejarah, Geografi, Ekonomi, Akuntansi, Pancasila & Kewarganegaraan, Sosiologi)",7,Ya,4,0,87,50,8
+32,andahabibah1@gmail.com,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,"Ilmu Pengetahuan Sosial dan Pendidikan Kewarganegaraan (termasuk Sejarah, Geografi, Ekonomi, Akuntansi, Pancasila & Kewarganegaraan, Sosiologi)",2,Sebagian,8,3.2,93.33333,80,10
+33,rudi.saputra@sd-batam.telkomschools.sch.id,Sekolah Dasar Kelas 4-6 atau Madrasah Ibtidaiyah (MI) kelas 4-6,"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",8,Ya,10,10,80,100,8
+34,henihasanah183@yahoo.co.id,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),"Ilmu Pengetahuan Alam (termasuk Fisika, Kimia, dan Biologi)",2,Ya,5,3.2,86,64,7
+35,devitaalna@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),"Ilmu Pengetahuan Sosial dan Pendidikan Kewarganegaraan (termasuk Sejarah, Geografi, Ekonomi, Akuntansi, Pancasila & Kewarganegaraan, Sosiologi)",4,Sebagian,10,10,96,74,7
+36,joniandra78@gmail.com,Sekolah Menengah Atas (SMA ) atau Sekolah Menengah Kejuruan (SMK) atau Madrasah Aliyah (MA),Informatika dan TIK,8,Ya,10,10,97.33333,70,8
